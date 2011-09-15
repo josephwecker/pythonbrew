@@ -170,7 +170,7 @@ version
 See more details below
   `pythonbrew help <command>`
 
-LICENCE
+LICENSE
 =======
 
 The MIT License
